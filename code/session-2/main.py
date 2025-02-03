@@ -1,10 +1,3 @@
-# GET THE NEXT LAUNCH@
-# Get the url / import it
-# Fetch the url
-# Get the data
-# Display the data
-# => OK
-
 import requests
 import json
 
@@ -35,6 +28,7 @@ def main():
     rocket_url = f"{base_url}/rockets/{launch["rocket"]}"
     rocket = get_json(rocket_url)
     write_json(rocket, "rocket")
+
 
     print("Success")
 
