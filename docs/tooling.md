@@ -2,7 +2,7 @@
 
 These are tools we are going to use during the project. Some will be useful for any project you have, others are more specific to the project but will give you a reference of what you can expect with an API documentation for example.
 
-## REPLS
+## REPLs
 
 - [Replit](https://replit.com/): free but you need an account
 - [Python Morsels](https://www.pythonmorsels.com/repl/): free and easily accessible
